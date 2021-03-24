@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=degroot12)](https://github.com/degroot12/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=degroot12&theme=dark&show_icons=true)](https://github.com/degroot12/github-readme-stats)
 
 <!--
 **degroot12/degroot12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
